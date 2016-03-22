@@ -3,7 +3,10 @@
 ; This file needs to be in a Keil version 5 project, together with file init.s,
 ; for all CS 238 programming Home Assignments
 
-; This is a demo program, which you will need to change for each Home Assignment
+; This is an ARM assembly program for Texas Instruments LM4F120H5QR hardware. 
+; It accepts a length of an array from the user, then decimal inputs from the user
+; for the length specified, then allows the user to either quit or search the array
+; for a given decimal value and if found outputs the position it was found in.
 
 ; Executable code in this file should start at label main
 
